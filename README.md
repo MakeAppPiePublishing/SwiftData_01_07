@@ -1,5 +1,5 @@
 # SwiftData Essential Training Exercise Files
-## XX_XX Title Here
+## 01_07 Challenge 1
 This is an exercise file of the [SwiftData Essential Training]() course on LinkedIn Learning. 
 
 I've stored the file as a `.zip` files. This has both beginning and the end states of the exercise app. It may also contain other resources you need for the project. 
